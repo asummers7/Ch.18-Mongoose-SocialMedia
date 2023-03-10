@@ -5,9 +5,6 @@
 This was a project to introduce the student to the use of Mongoose. We were to use the mongoose language to interact with a mysql database. The goal of this was to create a server this took in a user with additional functionality like the ability to add a friend, thoughts, and reactions. The server was then to be ran on insomnia to see if the connections were properly made. 
 
 ## Table of Contents
-- [Ch.18-Mongoose-SocialMedia](#ch18-mongoose-socialmedia)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
